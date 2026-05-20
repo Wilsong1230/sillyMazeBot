@@ -2,6 +2,8 @@
 
 An Arduino-based autonomous robot that navigates mazes using ultrasonic sensing and a state-machine control loop. Built for the FGCU Computing & Software Engineering program.
 
+![Rover Preview](./Rover.png)
+
 ## What It Does
 
 The rover drives itself through a maze without human input. A servo-mounted ultrasonic sensor sweeps left, front, and right to measure distances in real time. The robot uses those readings to:
