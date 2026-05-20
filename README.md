@@ -2,7 +2,7 @@
 
 An Arduino-based autonomous robot that navigates mazes using ultrasonic sensing and a state-machine control loop. Built for the FGCU Computing & Software Engineering program.
 
-![Rover Preview](./Rover.png)
+![Rover Preview](./rover.jpg)
 
 ## What It Does
 
